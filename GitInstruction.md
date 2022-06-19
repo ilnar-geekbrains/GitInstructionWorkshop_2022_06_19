@@ -31,6 +31,8 @@ Works with branch
  
  + *git branch -d branchName2* __Deleting a branchName branch
 
+ added new string after pull recheuost
+
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
