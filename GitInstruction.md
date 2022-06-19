@@ -21,6 +21,15 @@
 ### Базовая работа с локальным репозиторием
 
 ## Ветки. Локальная работа с ветками в git.
+Works with branch
+
++ *git branch* __When executing this command, git will output in which current branch we click__
+
++ *git branch brancName* __Creating a branch named branchName__
+
++ *git merge branchName1* __Merging the BranchName1 branch with the branch we are in__
+ 
+ + *git branch -d branchName2* __Deleting a branchName branch
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
