@@ -41,3 +41,18 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+![Альтернативные версии](https://habrastorage.org/r/w1560/webt/qz/dw/rb/qzdwrbbdhb9dr6yt-djvlqiaa30.jpeg)
+
+1. DVC
+2. Delta like
+3. Git large file storage
+4. Pachyderm
+5. Dolt
+6. LakeFs
+
+```javascript
+
+function some [] { return 5}
+
+```
