@@ -58,6 +58,17 @@ git branch -d <branch_name> - удаление ветки
 
 git log --graph - вывод истории комитов с визуализацией
 ## Ветки. Локальная работа с ветками в git.
+Works with branch
+
++ *git branch* __When executing this command, git will output in which current branch we click__
+
++ *git branch brancName* __Creating a branch named branchName__
+
++ *git merge branchName1* __Merging the BranchName1 branch with the branch we are in__
+ 
+ + *git branch -d branchName2* __Deleting a branchName branch
+
+ added new string after pull recheuost
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
