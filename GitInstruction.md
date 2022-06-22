@@ -8,6 +8,11 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+* Установка Git для windows, MAC, Linux:
+Это [ссылка](https://git-scm.com/downloads)
+* Установка VSCode для Windows,MAC, Linux:
+Это [ссылка](https://code.visualstudio.com/Download)
+
 ### Установка VSCode на ваш ПК.
 
 1. Переходим на сайт code.visualstudio.com, секция Download
