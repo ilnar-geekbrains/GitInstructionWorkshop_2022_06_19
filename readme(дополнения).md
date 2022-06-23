@@ -115,7 +115,7 @@ https://techblog.sdstudio.top/wp-content/uploads/2020/03/image_1936.png
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 
-[Git the simple guide](https://rogerdudler.github.io/git-guide/index.ru.htmlGit> "the simple guide") — простое руководство по работе с git.
+1. [Git the simple guide](https://rogerdudler.github.io/git-guide/index.ru.htmlGit> "the simple guide") — простое руководство по работе с git.
 Но для кого-то этого материала может не хватить, поскольку там описано все очень кратко и только основные моменты.
 2. [Pro Git](https://git-scm.com/book/ru/v1 "Pro Git") — исчерпывающая книга по Git, которую можно купить на Амазоне или читать онлайн / скачать бесплатно.
 3. [Git How To](https://githowto.com/ru "Git How To") — это интерактивный тур, который познакомит вас с основами Git. Тур создан с пониманием того, что лучшим способом научиться чему-нибудь — сделать это своими руками.
